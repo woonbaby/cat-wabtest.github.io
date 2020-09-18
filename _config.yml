@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: cat-taesik
+title: cat-woonbaby
 
 # [수정필요] 간단한 사이트 설명
-description: Cat Website of cat-taesik
+description: Cat Website of woonbaby
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
 author: cat-taesik
@@ -15,7 +15,7 @@ navbar-links:
   Career: "career"
   Publication: "publication"
   Blog: "blog"
-  GitHub: "https://github.com/cat-taesik"
+  GitHub: "https://github.com/woonbaby"
   Google Scholar: "https://scholar.google.com/citations?user=cat-taesik"
 
 
@@ -35,7 +35,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsongist1@gmail.com"
+#  email: "shsongist1@gmail.com"
 #  facebook: seokho.son.korea
 #  github: seokho-son
 #  linkedin: seokho-son
